@@ -46,4 +46,5 @@ int main (){
 	for(int i = 0; i<n; i++) nhap(&a[i]);
 	for(int i = 0; i<n; i++) in(a[i]);
 	timKiem2(a, n);
+	return 0;
 }
